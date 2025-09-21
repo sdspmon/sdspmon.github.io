@@ -23,7 +23,7 @@ repository               : "sdspmon/sdspmon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # "profile.png"
+  #avatar           : "profile.png"
   name             : "Sophie d'Espalungue"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher | Algebraic Topology, Category Theory, Foundations of Mathematics"
