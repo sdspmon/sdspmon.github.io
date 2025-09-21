@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Sophie d'Espalungue"
 title_separator          : "-"
 name                     : &name "Sophie d'Espalungue"
-description              : &description "Sophie d'Espalungue's academic webpage"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Sophie d'Espalungue's math webpage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://sdspmon.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Sophie d'Espalungue"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral researcher"
+  bio              : "Postdoctoral researcher // Algebraic Topology, Category Theory, Foundations of Mathematics"
   location         : "Paris"
   employer         : "IRIF"
   uri              : # URL
