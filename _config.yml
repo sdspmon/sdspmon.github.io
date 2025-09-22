@@ -26,9 +26,9 @@ author:
   #avatar           : "profile.png"
   name             : "Sophie d'Espalungue"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc | Algebraic Topology, Category Theory, Foundations of Mathematics"
+  bio              : "Postdoc"
   location         : "Paris, France"
-  employer         : "IRIF"
+  employer         : "Institut de Recherche en Informatique Fondamentale (IRIF)"
   uri              : # "https://www.irif.fr"
   email            : "despalungue@irif.fr" 
 
