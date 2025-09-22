@@ -17,4 +17,4 @@ My research lies at the interface of category theory, logic, and algebraic topol
 
 ## Talks 
 
-- Towards an internal construction of meaning  [slides](https://github.com/user-attachments/files/22466240/InternalConstruction.pdf)
+- Towards an internal construction of meaning [abstract]() [slides](https://github.com/user-attachments/files/22466240/InternalConstruction.pdf)
